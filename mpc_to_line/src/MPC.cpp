@@ -12,8 +12,8 @@ namespace plt = matplotlibcpp;
 using CppAD::AD;
 
 // Set N and dt
-size_t N = std::numeric_limits<double>::max();
-double dt = std::numeric_limits<double>::min();
+size_t N = 25.0;
+double dt = 0.05;
 
 // This value assumes the model presented in the classroom is used.
 //
