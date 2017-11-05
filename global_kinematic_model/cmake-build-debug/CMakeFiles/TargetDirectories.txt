@@ -1,0 +1,3 @@
+/Users/ovoitovych/mv_udacity/term2/P5-Predictive-Control-Model/CarND-MPC-Quizzes/global_kinematic_model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ovoitovych/mv_udacity/term2/P5-Predictive-Control-Model/CarND-MPC-Quizzes/global_kinematic_model/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ovoitovych/mv_udacity/term2/P5-Predictive-Control-Model/CarND-MPC-Quizzes/global_kinematic_model/cmake-build-debug/CMakeFiles/global_kinematic_model.dir
